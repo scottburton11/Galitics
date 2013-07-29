@@ -32,9 +32,9 @@ accounts.first.web_properties.first.profiles
      {"id"=>"1234567",
       "kind"=>"analytics#profile",
       "selfLink"=>
-       "https://www.googleapis.com/analytics/v3/management/accounts/705044/webproperties/UA-705044-1/profiles/1234567",
-      "accountId"=>"705044",
-      "webPropertyId"=>"UA-705044-1",
+       "https://www.googleapis.com/analytics/v3/management/accounts/567890/webproperties/UA-567890-1/profiles/1234567",
+      "accountId"=>"567890",
+      "webPropertyId"=>"UA-567890-1",
       "internalWebPropertyId"=>"987765",
       "name"=>"www.example.com",
       "currency"=>"USD",
@@ -47,11 +47,11 @@ accounts.first.web_properties.first.profiles
       "parentLink"=>
        {"type"=>"analytics#webproperty",
         "href"=>
-         "https://www.googleapis.com/analytics/v3/management/accounts/705044/webproperties/UA-705044-1"},
+         "https://www.googleapis.com/analytics/v3/management/accounts/567890/webproperties/UA-567890-1"},
       "childLink"=>
        {"type"=>"analytics#goals",
         "href"=>
-         "https://www.googleapis.com/analytics/v3/management/accounts/705044/webproperties/UA-705044-1/profiles/1234567/goals"}}>]
+         "https://www.googleapis.com/analytics/v3/management/accounts/567890/webproperties/UA-567890-1/profiles/1234567/goals"}}>]
 ```
 
 ## Should I use Galitics?
